@@ -1,0 +1,6 @@
+@PractitionerService_HostAddress = http://localhost:8080
+
+GET {{PractitionerService_HostAddress}}/practitioners/
+Accept: application/json
+
+###
